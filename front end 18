@@ -1,0 +1,10 @@
+echo "# front-end-18" >> README.md
+itinerante inicial
+git adicionar README.md
+git commit - m "primeiro commit"
+ramo Git -M principal
+git remote add origin https://github.com/joaovictorgs123/front-end-18.git
+git push - u origem main
+git remote add origin https://github.com/joaovictorgs123/front-end-18.git
+ramo Git -M principal
+git push - u origem main
